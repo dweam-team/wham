@@ -8,12 +8,12 @@ Select if you will be running the server from AI Foundry (Azure AI Endpoint) or 
 You might need to click on Options for the Settings to be visible.
 ![Figure 1](../assets/Demonstrator/Fig_01.png)
 
-## Entering Server IP Address and API Key (Azure AI Foundry)
-If you have deployed your model in Azure AI Foundry. Enter the endpoint address as well as the API Key.
-![Figure 2](../assets/Demonstrator/Fig_02.png)
-
 ## Entering a Server IP Address (Local Deployment)
 If you have deployed your own model using run_server.py. The model and API should be hosted on a server and port that is accessible to the app. Enter the IP address with port into the text box at the top left of the window, in the form `http://127.0.0.1:5000`.
+![Figure 2](../assets/Demonstrator/Fig_02.png)
+
+## Entering Server IP Address and API Key (Azure AI Foundry)
+If you have deployed your model in Azure AI Foundry. Enter the endpoint address as well as the API Key.
 ![Figure 3](../assets/Demonstrator/Fig_03.png)
 
 ## Opening Starting Frames
