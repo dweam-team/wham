@@ -1,6 +1,6 @@
 import cv2
 
-from wham.models.wham_token_model.wham_token import WHAMTokenModule
+from .models.wham_token_model.wham_token import WHAMTokenModule
 
 # Hardcoded number (the FPS model was trained for)
 DREAMING_FPS = 10
